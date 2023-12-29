@@ -35,28 +35,4 @@ sliderContainer.addEventListener('mouseover', () => {
 sliderContainer.addEventListener('mouseout', () => {
     document.querySelector('.slider').style.animationPlayState = 'running';
 });
-// JavaScript code to toggle the dropdown menu
-document.addEventListener("click", function(event) {
-  var dropdownContent = document.getElementsByClassName("dropdown-content");
-  for (var i = 0; i < dropdownContent.length; i++) {
-    if (!event.target.matches('.dropdown-btn')) {
-      var openDropdown = dropdownContent[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-});
 
-// Show the dropdown content on button click
-var dropdownBtn = document.getElementsByClassName("dropdown-btn");
-for (var i = 0; i < dropdownBtn.length; i++) {
-  dropdownBtn[i].addEventListener("click", function() {
-    var dropdownContent = this.nextElementSibling;
-    if (dropdownContent.classList.contains('show')) {
-      dropdownContent.classList.remove('show');
-    } else {
-      dropdownContent.classList.add('show');
-    }
-  });
-}
