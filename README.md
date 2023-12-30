@@ -34,8 +34,11 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
  Clone the repository:
  
 1.bash copy code git clone github link :
+
 2.navigate to the project directory : pet care guide website
+
 3.install dependencies : Npm install
+
 4.Run the application : copy code pet care guide.html visit local ip address in your web browser :
 
 # Technlogies used :
