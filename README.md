@@ -6,10 +6,13 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
 
 # group members :
  
- Vishnu kumar.M -- Front end developer
- Vignesh.S -- Backend Developer
- Naveen.S -- Readme file
- Tharun -- Cloud Services and Voice over
+ 1.Vishnu kumar.M -- Front end developer
+ 
+ 2.Vignesh.S -- Backend Developer
+ 
+ 3.Naveen.S -- Readme file
+ 
+ 4.Tharun -- Cloud Services and Voice over
  
 # Features :
             Creating a comprehensive pet care guide website involves incorporating various features to provide valuable information and resources for pet owners. Here are some essential features and elements to consider for a successful pet care guide website:
