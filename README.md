@@ -41,15 +41,20 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
 
 # Azure Services :
 
-1.Resource Group: Azure Resource Group is used to manage and organize resources in Azure.It provides a way to manage the resources collectively, monitor their health, and manage their configurations.
+1.Resource Group:
+          Azure Resource Group is used to manage and organize resources in Azure.It provides a way to manage the resources collectively, monitor their health, and manage their configurations.
 
-2.Virtual Network Integration: Integration with Azure Virtual Network ensures that your application securely communicates with resources within the virtual network, providing enhanced security and isolation
+2.Virtual Network Integration: 
+          Integration with Azure Virtual Network ensures that your application securely communicates with resources within the virtual network, providing enhanced security and isolation
 
-3.Azure Monitor: Azure Monitor provides comprehensive monitoring and analytics for your applications and infrastructure.It helps in collecting, analyzing, and acting on telemetry data from your applications and services.
+3.Azure Monitor:
+          Azure Monitor provides comprehensive monitoring and analytics for your applications and infrastructure.It helps in collecting, analyzing, and acting on telemetry data from your applications and services.
 
-4.Web app : Azure Static Web Apps is designed specifically for hosting static web applications.These are web applications that consist of HTML, CSS, JavaScript, and other static files.     Static web apps are well-suited for scenarios where dynamic server-side processing is not required.
+4.Web app :
+          Azure Static Web Apps is designed specifically for hosting static web applications.These are web applications that consist of HTML, CSS, JavaScript, and other static files.     Static web apps are well-suited for scenarios where dynamic server-side processing is not required.
 
-5.ai bot :  This service provides the infrastructure and tools needed to build, connect, and manage intelligent bots.Integrate Azure Cognitive Services, particularly Language Understanding (LUIS), to enable natural language processing.LUIS allows your bot to understand and interpret user input.
+5.ai bot :
+          This service provides the infrastructure and tools needed to build, connect, and manage intelligent bots.Integrate Azure Cognitive Services, particularly Language Understanding (LUIS), to enable natural language processing.LUIS allows your bot to understand and interpret user input.
 
 Demo url:
 Demo video: 
