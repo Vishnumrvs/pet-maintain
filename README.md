@@ -69,5 +69,6 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
 
 url:petshopping.azurewebsites.net
 video: 
-images:(https://github.com/Vishnumrvs/pet-maintain/assets/149359529/83e89816-d30f-48c0-88d9-09ebfaf28818)
+images:
+
 
