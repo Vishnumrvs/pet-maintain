@@ -33,13 +33,13 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
  
  Clone the repository:
  
-1.bash copy code git clone github link :
+1.bash copy code git clone github link :https://github.com/Vishnumrvs/pet-maintain/tree/main/public
 
 2.navigate to the project directory : pet care guide website
 
 3.install dependencies : Npm install
 
-4.Run the application : copy code pet care guide.html visit local ip address in your web browser :
+4. set up environment variables  (API keys, database credentials, etc.): Create a .env file based on .env.example.S.start the server: npm start.
 
 # Technlogies used :
   frontend : html,css ,javascript. 
@@ -67,6 +67,6 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
           
           This service provides the infrastructure and tools needed to build, connect, and manage intelligent bots.Integrate Azure Cognitive Services, particularly Language Understanding (LUIS), to enable natural language processing.LUIS allows your bot to understand and interpret user input.
 
-Demo url:
-Demo video: 
-Demo images:
+url:petshopping.azurewebsites.net
+video: 
+images:
