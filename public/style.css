@@ -98,11 +98,12 @@ nav a:hover {
 }
 
 section {
-  max-width: 800px;
+  max-width: auto;
   margin: 20px auto;
   padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
+  border: 3px solid #1e8670;
+  border-radius: 10px;
+
 }
 section h1{
   text-align: center;
@@ -110,16 +111,20 @@ section h1{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 section h2 {
-  color: #6522ea;
+  color: #b82f7f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  font-size: 40px;
 }
 #centered-image {
   display: block;
   margin: 0 auto; /* Set left and right margin to auto */
 }
-.sec-con{
-  margin-bottom: 500px;
-  color: aqua;
+
+#detail{
+  font-size: 50px;
 }
+
 #healthy-food {
   font-size: 20px;
 }
@@ -138,6 +143,7 @@ section h2 {
 .image-container {
   width: 40%; /* Adjust the width as needed */
   margin-left: 20px;
+  margin-top: 20px;
 }
 
 .image-container img {
