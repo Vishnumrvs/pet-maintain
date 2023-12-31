@@ -10,7 +10,7 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
  
  2.Vignesh.S -- Backend Developer
  
- 3.Naveen.S -- Readme file
+ 3.Naveen.S -- Readme file and testing 
  
  4.Tharun -- Cloud Services and Voice over
  
