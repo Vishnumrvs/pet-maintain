@@ -68,7 +68,9 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
           This service provides the infrastructure and tools needed to build, connect, and manage intelligent bots.Integrate Azure Cognitive Services, particularly Language Understanding (LUIS), to enable natural language processing.LUIS allows your bot to understand and interpret user input.
 
 url:petshopping.azurewebsites.net
-video: 
+
+video:https://youtu.be/hyn4E9BtJGo
+
 images:
 
 
