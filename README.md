@@ -33,7 +33,7 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
  
  Clone the repository:
  
-1.bash copy code git clone github link :https://github.com/Vishnumrvs/pet-maintain/tree/main/public
+1.bash copy code git clone github link :https://github.com/Vishnumrvs/pet-maintain
 
 2.navigate to the project directory : pet care guide website
 
@@ -67,11 +67,19 @@ Pet Care Guide is a project dedicated to simplifying and organizing various aspe
           
           This service provides the infrastructure and tools needed to build, connect, and manage intelligent bots.Integrate Azure Cognitive Services, particularly Language Understanding (LUIS), to enable natural language processing.LUIS allows your bot to understand and interpret user input.
 
-url:www.petshopping.azurewebsites.net
+url:https://petshopping.azurewebsites.net/
 
-video:https://youtu.be/hyn4E9BtJGo
+video:https://youtu.be/hyn4E9BtJGo?feature=shared
 
 images:![1](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/3df43b15-7e14-4347-8241-a65e4505d147)
 ![2](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/258db5ac-3c02-4295-b412-c0243629543e)
+![3](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/c956244d-ba54-4a2a-9f1b-8e1ce3d12d59)
+![5](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/6e85fa28-7596-48bc-a235-4eb52b9c7f88)
+![6](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/31bd13b4-68e0-4475-b2c5-6eed39eddf52)
+![6a](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/5925b48e-4812-4859-ae90-57ecf1b31b2e)
+![7](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/cec9e792-8483-4068-b146-2c745d714e26)
+![8](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/b8f2b4fb-7687-4223-8d07-a3cadc5ec0c6)
+![9](https://github.com/Vishnumrvs/pet-maintain/assets/149359909/b236c133-d3b5-4e8f-ad9b-cece17f1bf36)
+
 
 
